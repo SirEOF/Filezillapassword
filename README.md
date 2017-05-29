@@ -1,0 +1,2 @@
+# Filezillapassword
+Readfilezilla
